@@ -1,9 +1,14 @@
 <!DOCTYPE html>
-	<html>
+<html lang="en">
 		<head>
-			<title> I created a file about-gerald</title>
+			<meta charset="utf-8"/>
+			<title>about-gerald</title>
 		</head>
+		<h1>The life of Gerald></h1>
+		<h2>Who is Gerald</h2>
 		<body>
-			<p> I created a file about-gerald</p>
+			<p>Story of Gerald birth</p>
+			<p>Where has Gerald Lived</p>
+			<p>What is Gerald doing now</p>
 		</body>
 	</html>
