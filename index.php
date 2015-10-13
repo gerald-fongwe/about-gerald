@@ -5,7 +5,7 @@
 		<title>about-gerald</title>
 	</head>
 	<body>
-	<h1>The life of Gerald></h1>
+	<h1>The life of Gerald</h1>
 	<h2>Who is Gerald</h2>
 		<p>Story of Gerald's birth</p>
 		<p>Where has Gerald Lived</p>
