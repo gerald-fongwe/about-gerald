@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<base href="http://www.google.com/image" target="_self">
 		<meta charset="utf-8"/>
 		<title>about-gerald</title>
 	</head>
