@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<base href="http://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=superman%20pictures" target="_blank">
+		<base href="http://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=superman%20pictures" target="_self">
 		<meta charset="utf-8"/>
 		<title>about-gerald</title>
 	</head>
