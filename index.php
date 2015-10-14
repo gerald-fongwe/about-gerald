@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<base href="https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=superman%20pictures">
 		<meta charset="utf-8"/>
 		<title>about-gerald</title>
 	</head>
