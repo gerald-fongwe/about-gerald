@@ -13,4 +13,5 @@
 		<p>What is Gerald doing now</p>
 		<img src="img/superman-dcuo.jpg" alt="superman"/>
 	</body>
+	<div style="background-color:black; color:white; padding:20px;">
 </html>
